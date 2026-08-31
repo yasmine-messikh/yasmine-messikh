@@ -1,4 +1,4 @@
-very curious cat and applied machine learning scientist @ [Ada cx](https://www.ada.cx)
+resident curious cat and applied machine learning scientist @ [ada cx](https://www.ada.cx)
 
 In my free time, I'm interested in how embodied experience leaves traces in language—and how to make those traces computationally legible. This encompasses all the things we humans know through the body before they reach words: sensory texture, movement quality, attentional orientation, the felt structure of an experience. I care about the formal and computational methods that make this kind of knowledge detectable and actionable to machines. 
 
