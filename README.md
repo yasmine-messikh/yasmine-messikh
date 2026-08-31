@@ -14,5 +14,5 @@ Also curious about second-order cybernetics, physical AI, and world models.
 Measuring how far metaphors travel across the body's dimensions. Applies Lancaster Sensorimotor Norms (Lynott et al., 2020) to the VU Amsterdam Metaphor Corpus to compute shift vectors and cosine distances between source and target domains—quantifying the sensorimotor reach of figurative language.
 
 **[listening-experience-information-extraction](https://github.com/yasmine-messikh/listening-experience-information-extraction-sci6203)**
-Extracting experiential domains (body, memory, place, social relations) from 34,689 online music reviews using a hybrid pipeline: controlled vocabularies, rule-based patterns, correspondence analysis, and few-shot NER with GLiNER. Treats reviews as informational inscriptions of listening experience rather than opinion documents.
+This methodology enables the semi-automatic extraction of experiential domains (body, memory, place, social relations) by leveraging contextual information in documents. The findings show that perceptual descriptors do more than qualify sonic properties: they function as discursive anchors through which listening is mediated, apprehended through the active orientation of the subject toward what the sound affords for the regulation and modulation of lived experience.
 
