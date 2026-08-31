@@ -1,12 +1,12 @@
-applied scientist @ [Ada cx](https://www.ada.cx).
+applied scientist @ [Ada cx](https://www.ada.cx)
 
 In my free time, I'm interested in how embodied experience leaves traces in language—and how to make those traces computationally legible. The things we know through the body before they reach words: sensory texture, movement quality, attentional orientation, the felt structure of an experience. I care about the formal and computational methods that make this kind of knowledge visible.
 
-This sits at the intersection of 4E cognition, phenomenology, theory of perception, and cognitive/computational linguistics.
+This sits at the intersection of 4E cognition, phenomenology, theory of perception, Laban/Bartenieff Movement Analysis (LBMA) and cognitive/computational linguistics.
 
 Also curious about second-order cybernetics, physical AI, and world models.
 
-... And cinema; you can find my favourite films on [Mubi](https://mubi.com/en/lists/mubi-favourites-54270620-4a2a-4a35-b3d3-a7d4aa64090a).
+... and cinema; you can find my favourite films on [Mubi](https://mubi.com/en/lists/mubi-favourites-54270620-4a2a-4a35-b3d3-a7d4aa64090a).
 
 ## Explorations
 
